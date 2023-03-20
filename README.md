@@ -1,6 +1,6 @@
 ### Oi, eu sou Felipe 👋
 
-- 🐱‍💻contate-me: contato.liaf11@gmail.com
+- 🐱‍💻contate-me: contato.liaf2@gmail.com
 - 🤖HTML,CSS,JS,React
 - 🤓studying: Bloodstrap
 
