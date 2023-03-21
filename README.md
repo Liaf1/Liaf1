@@ -6,7 +6,7 @@
 
 ![Liaf1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Liaf1&show_icons=true&theme=algolia)
 <head>
-  <link rel=stylesheet href=
+  <link rel=stylesheet href=readme.css>
 </head>
 <body>
 <div>
