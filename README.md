@@ -2,7 +2,7 @@
 
 - 🐱‍💻contate-me: contato.liaf2@gmail.com
 - 🤖HTML,CSS,JS,React
-- 🤓studying: Bloodstrap
+- 🤓studying: Angular
 
 ![Liaf1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Liaf1&show_icons=true&theme=algolia)
 <head>
