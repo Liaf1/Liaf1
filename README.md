@@ -1,7 +1,7 @@
 ### Oi, eu sou Felipe 👋
 
 - 🐱‍💻contate-me: contato.liaf2@gmail.com
-- 🤖HTML,CSS,JS,React
+- 🤖HTML,CSS,JS
 - 🤓studying: Angular
 
 ![Liaf1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Liaf1&showicons=true&theme=transparent)
