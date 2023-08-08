@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
 </div>
 
-![Snake animation](https://github.com/Liaf1/Liaf1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/liaf1/liaf1/blob/output/github-contribution-grid-snake.svg)
 
 
 
